@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="./assets/hero.svg" width="100%" alt="Jérémie Nunez — exploring the space between artificial intelligence, software systems and human reasoning" />
+  <img src="./hero.svg" width="100%" alt="Jérémie Nunez — exploring the space between artificial intelligence, software systems and human reasoning" />
 </p>
 
 I am deeply interested in how intelligent systems can help people think better, build faster, and interact with technology in more natural ways.
@@ -9,7 +9,7 @@ It is about designing tools that extend human capability.
 
 I am fascinated by the moment where an idea becomes a system — where abstract thinking turns into something useful, scalable, and alive.
 
-<img src="./assets/divider.svg" width="100%" alt="" />
+<img src="./divider.svg" width="100%" alt="" />
 
 ## What I Am Interested In
 
@@ -20,7 +20,7 @@ I am interested in AI not only as a technology, but as a new way to design softw
 I like exploring how AI systems can reason, assist, automate, explain, and collaborate with humans.
 
 <p align="center">
-  <img src="./assets/orb.svg" width="440" alt="A rotating liquid-chrome sphere drawn in ASCII characters" />
+  <img src="./orb.svg" width="440" alt="A rotating liquid-chrome sphere drawn in ASCII characters" />
 </p>
 
 The areas that capture my attention the most are:
@@ -94,7 +94,7 @@ Typing, clicking, and navigating menus are not always the most natural ways to u
 That is why I am interested in voice interfaces, conversational agents, and systems that feel closer to human interaction.
 
 <p align="center">
-  <img src="./assets/voice.svg" width="560" alt="An animated voice waveform drawn with block characters" />
+  <img src="./voice.svg" width="560" alt="An animated voice waveform drawn with block characters" />
 </p>
 
 The future of software may not only be visual.  
@@ -117,7 +117,7 @@ The kind of software that interests me is software that:
 To me, the most exciting products are not just convenient.  
 They change what people are capable of doing.
 
-<img src="./assets/divider.svg" width="100%" alt="" />
+<img src="./divider.svg" width="100%" alt="" />
 
 ## How I Think About Technology
 
@@ -128,5 +128,5 @@ It should feel like leverage.
 I am interested in building systems that are:
 
 <p align="center">
-  <img src="./assets/principles.svg" width="560" alt="Intelligent but understandable. Powerful but simple to use. Scalable but maintainable. Automated but human-centered. Technical but meaningful." />
+  <img src="./principles.svg" width="560" alt="Intelligent but understandable. Powerful but simple to use. Scalable but maintainable. Automated but human-centered. Technical but meaningful." />
 </p>
